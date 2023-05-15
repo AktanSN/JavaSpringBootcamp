@@ -8,6 +8,8 @@
   Id den ülke getiren bir api yazınız. 
   Ülke başkanını güncelleyen bir api yazınız
 ```
+## Dikkat
+* Setup SDK uyarısı alırsanız: Oracle OpenJDK 17.0.4 kullanıldı.
 
 ## Kullanılan Teknolojiler ve IDE
 * Maven
