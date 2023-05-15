@@ -1,23 +1,23 @@
-# JavaSpringBootcamp
-## Java101 Temel Ders Projeleri
+
+  <h1>JavaSpringBootcamp</h1>
+
 ````
-Patika.dev Java101 kapsamındaki bütün pratik ve ödevler.
-````
-<table><tr><td valign="top" >
-<div >  
-<h3>Cohorts Ödevler</h3>
-<a href="https://github.com/AktanSN/Homework1" style="color:#5489ef;">1-) Cohorts Ödev 1</a>
-<br><a href="https://github.com/AktanSN/JavaSpringBootcamp/tree/main/CohortsHomework2" style="color:#5489ef;">2-) Cohorts Ödev 1 </a>
+Akbank Java Spring Bootcamp kapsamındaki bütün pratik ve ödevler
+````  
+  <table>
+    <tr>
+      <th>Cohorts Ödevler</th>
+      <th>Akbank Organizasyon Ödevler</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AktanSN/Homework1" style="color:#5489ef;">Cohorts Ödev 1</a></td>
+      <td><a href="https://github.com/AktanSN/JavaSpringBootcamp/tree/main/OrganizationHomework1" style="color:#5489ef;">Akbank Organizasyon Ödev 1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AktanSN/JavaSpringBootcamp/tree/main/CohortsHomework2" style="color:#5489ef;">Cohorts Ödev 2</a></td>
+      <td><a href="" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
+    </tr>
+  </table>
 
-</div>
-</td><td valign="top" >
 
-
-<div>  
-<h3>Akbank Organizasyon Ödevler</h3>
-<a href="https://github.com/AktanSN/JavaSpringBootcamp/tree/main/OrganizationHomework1" style="color:#5489ef;">1-) Akbank Organizasyon Ödev 1</a>
-<br><a href="" style="color:#5489ef;">2-) Akbank Organizasyon Ödev </a>
-</div>
-
-</td></tr></table>  
 
