@@ -15,7 +15,7 @@ Akbank Java Spring Bootcamp kapsamındaki bütün pratik ve ödevler
     </tr>
     <tr>
       <td><a href="https://github.com/AktanSN/JavaSpringBootcamp/tree/main/CohortsHomework2" style="color:#5489ef;">Cohorts Ödev 2</a></td>
-      <td><a href="" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
+      <td><a href="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-2-AktanSN" style="color:#5489ef;">Akbank Organizasyon Ödev 2</a></td>
     </tr>
   </table>
 
